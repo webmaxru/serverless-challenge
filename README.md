@@ -11,7 +11,7 @@ Azure Functions is a solution for easily running small pieces of code, or "funct
 **You have to deploy a new Azure Function in C#.** This function will open a web page that will redirect you to the registration page. Once you register, you will receive a confirmation email. You only need to come to the Microsoft booth and ask for your t-shirt showing your confirmation email. That's all!
 
 ## So do I need to code?
-Not really... you just need to copy and paste the code here when creating your Azure Function. It will take you only a few minutes!
+Not really... you just need to copy and paste the [code found here](https://github.com/diegoparrilla/dotnet2019challenge/blob/master/Dotnet2019ChallengeTrigger.cs)  when creating your Azure Function. It will take you only a few minutes!
 
 # STEP 1 - Create your function in the Azure Portal
 
