@@ -65,7 +65,7 @@ Next, you create a function in the new function app.
 
 ![Create in portal http webhook api](https://docs.microsoft.com/en-us/azure/azure-functions/media/functions-create-first-azure-function/function-app-quickstart-node-webhook.png)
 
-3. A function  is created using a language-specific template for an HTTP triggered function. Now, copy the content in [this file](https://github.com/diegoparrilla/dotnet2019challenge/blob/master/Dotnet2019ChallengeTrigger.cs) and paste it into the textbox.
+3. A function  is created using a language-specific template for an HTTP triggered function. Now, copy the content of [this file](https://github.com/diegoparrilla/dotnet2019challenge/blob/master/Dotnet2019ChallengeTrigger.cs) and paste it into the textbox.
 
 ![Cut and paste code](https://github.com/diegoparrilla/dotnet2019challenge/blob/master/images/copy-paste-function.jpg)
 
@@ -81,5 +81,5 @@ Next, you create a function in the new function app.
 ![Show QR code page](https://github.com/diegoparrilla/dotnet2019challenge/blob/master/images/qr-code.jpg)
 
 
-8. You are done! Now you have to visit us to our booth, show us the confirmation email and get a t-shirt!
+8. You are done! Now you have to visit us in our booth, show us the confirmation email and get your t-shirt!
 
