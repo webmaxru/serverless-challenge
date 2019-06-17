@@ -3,6 +3,7 @@
 
 Do you want to get a t-shirt and learn about Azure Functions? Then you only need 5 minutes and a browser to play our code challenge! Ready? Let's start!
 
+![t-shirt](https://github.com/diegoparrilla/dotnet2019challenge/blob/master/images/tshirt.png)
 
 ## What is Azure Functions?
 Azure Functions is a solution for easily running small pieces of code, or "functions," in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. Functions can make development even more productive, and you can use your development language of choice, such as C#, F#, Node.js, Java, or PHP. Pay only for the time your code runs and trust Azure to scale as needed. Azure Functions lets you develop serverless applications on Microsoft Azure. Want to learn more? You can read here an [Introduction to Azure Functions.](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
@@ -37,7 +38,7 @@ You must have a function app to host the execution of your functions. A function
 Setting | Suggested value |	Description
 ------- | --------------- | -----------
 App name | Globally unique name | Name that identifies your new function app. Valid characters are a-z, 0-9, and -. **Enter a descriptive name, for example YOURNAMEDotNetCode2019Challenge**
-Subscription | Your subscription | The subscription under which this new function app is created. **Select default**
+Subscription | Your subscription | The subscription under which this new function app is created. **Select your favourite Subscription, or FREE TRIAL if you are using a trial**
 Resource Group | myResourceGroup | Name for the new resource group in which to create your function app. **Enter YOURNAMEDotNetCode2019Challenge**
 OS | Windows | Serverless hosting on Linux is currently in preview. For more information, see this considerations article. **Select WINDOWS**
 Hosting plan | Consumption plan | Hosting plan that defines how resources are allocated to your function app. In the default Consumption Plan, resources are added dynamically as required by your functions. In this serverless hosting, you only pay for the time your functions run. When you run in an App Service plan, you must manage the scaling of your function app. **Choose Consumption Plan**
