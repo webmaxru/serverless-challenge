@@ -1,5 +1,5 @@
 # Azure Functions Code Challenge
-## Want an awesome Azure IoT DevKit? Time to code!
+## Want an awesome prize? Time to code!
 
 Do you want to get an [Azure IoT DevKit](https://microsoft.github.io/azure-iot-developer-kit/) and learn about Azure Functions? Then you only need 5 minutes and a browser to play our code challenge! Ready? Let's start!
 
@@ -9,7 +9,9 @@ Do you want to get an [Azure IoT DevKit](https://microsoft.github.io/azure-iot-d
 Azure Functions is a solution for easily running small pieces of code, or "functions," in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. Functions can make development even more productive, and you can use your development language of choice, such as C#, F#, Node.js, Java, or PHP. Pay only for the time your code runs and trust Azure to scale as needed. Azure Functions lets you develop serverless applications on Microsoft Azure. Want to learn more? You can read here an [Introduction to Azure Functions.](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 
 ## The challenge!
-**You have to deploy a new Azure Function in C#.** This function will open a web page that will redirect you to the registration page. Once you register, you will receive a confirmation email. You only need to come to the Microsoft booth and ask for your t-shirt showing your confirmation email. That's all!
+**You have to deploy a new Azure Function in Node.js.** This function will open a web page that will redirect you to the registration page. Once you register, you will receive a confirmation email. You only need to come to the Microsoft booth and ask for your prize showing your confirmation email. That's all!
+
+*If you prefer .NET version of the same challenge, please use [this repo](https://github.com/diegoparrilla/dotnet2019challenge) (the mentioned prize might be different there, just ignore this information) with the modification of URL to `https://serverless-challenge.azurewebsites.net/api/serverless-challenge-checker` on [this line](https://github.com/diegoparrilla/dotnet2019challenge/blob/master/Dotnet2019ChallengeTrigger.cs#L16)*
 
 ## So do I need to code?
 Not really... you just need to copy and paste the [code found here](https://github.com/webmaxru/serverless-challenge/blob/master/index.js)  when creating your Azure Function. It will take you only a few minutes!
@@ -77,5 +79,5 @@ Next, you create a function in the new function app.
 
 6. **This is the URL you have to paste in any browser.** After one second, the page will redirect automatically to a registration page. Fill the form and you will receive a confirmation email.
 
-7. You are done! Now you have to visit us in our booth, show us the confirmation email and get your t-shirt!
+7. You are done! Now you have to visit us in our booth, show us the confirmation email and get your prize!
 
