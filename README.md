@@ -6,7 +6,7 @@ Do you want to get an [Azure IoT DevKit](https://microsoft.github.io/azure-iot-d
 ![Azure IoT DevKit](https://github.com/webmaxru/serverless-challenge/blob/master/images/devkit.jpg)
 
 ## What is Azure Functions?
-Azure Functions is a solution for easily running small pieces of code, or "functions," in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. Functions can make development even more productive, and you can use your development language of choice, such as C#, F#, Node.js, Java, or PHP. Pay only for the time your code runs and trust Azure to scale as needed. Azure Functions lets you develop serverless applications on Microsoft Azure. Want to learn more? You can read here an [Introduction to Azure Functions.](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview?ocid=aid2443405_ThankYou_DevComm&eventId=JavaZone2019-ServerlessChallengeStart_-LrRjUtwq_XD)
+Azure Functions is a solution for easily running small pieces of code, or "functions," in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. Functions can make development even more productive, and you can use your development language of choice, such as C#, F#, Node.js, Java, or PHP. Pay only for the time your code runs and trust Azure to scale as needed. Azure Functions lets you develop serverless applications on Microsoft Azure. Want to learn more? You can read here an [Introduction to Azure Functions.](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview?ocid=aid2443405_ThankYou_DevComm&eventId=JavaZone2019-ServerlessChallengeContent__siN-FXC-3uo)
 
 ## The challenge!
 **You have to deploy a new Azure Function in Node.js.** This function will open a web page that will redirect you to the registration page. Once you register, you will receive a confirmation email. You only need to come to the Microsoft booth and ask for your prize showing your confirmation email. That's all!
@@ -20,7 +20,7 @@ Not really... you just need to copy and paste the [code found here](https://gith
 
 Azure Functions lets you execute your code in a serverless environment without having to first create a VM or publish a web application. You will learn how to use Functions to create a function in the Azure portal.
 
-**If you don't have an Azure subscription, create a [free account](https://azure.microsoft.com/free/?ocid=aid2443405_ThankYou_DevComm&eventId=JavaZone2019-ServerlessChallengeStart_-LrRjUtwq_XD) before you begin.**
+**If you don't have an Azure subscription, create a [free account](https://azure.microsoft.com/en-us/free/?ocid=aid2443405_ThankYou_DevComm&eventId=JavaZone2019-ServerlessChallengeContent__siN-FXC-3uo) before you begin.**
 
 ## Log in to Azure
 
