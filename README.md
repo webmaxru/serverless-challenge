@@ -80,7 +80,7 @@ Next, you create a function in the new function app.
 
 6. **This is the URL you have to paste in any browser.** After one second, the page will redirect automatically to a registration page. Fill the form and you will receive a confirmation email.
 
-# STEP 3 **Important! To avoid your CC charges** - Go to "All services -> General -> Resource groups", click on the resource group you created and then "Delete resource group" (confirmation needed).
+# STEP 3 **Important! To avoid your CC charges** - Go to "All services -> General -> Resource groups", click on the resource group you created and then "Delete resource group" (confirmation needed). Log out from Azure Portal.
 
 You are done! Now you have to visit us in our booth, show us the confirmation email and get your prize!
 
