@@ -16,6 +16,8 @@ Azure Functions is a solution for easily running small pieces of code, or "funct
 ## So do I need to code?
 Not really... you just need to copy and paste the [code found here](https://github.com/webmaxru/serverless-challenge/blob/master/index.js)  when creating your Azure Function. It will take you only a few minutes!
 
+# STEP 0 **Important!** - Open [Azure portal](https://portal.azure.com) and make sure there is no active user (you have to see a log in screen). If somebody was previously logged in and you see the Dashboard - click user email in the top right corner and "Sign out".
+
 # STEP 1 - Create your function in the Azure Portal
 
 Azure Functions lets you execute your code in a serverless environment without having to first create a VM or publish a web application. You will learn how to use Functions to create a function in the Azure portal.
@@ -78,5 +80,7 @@ Next, you create a function in the new function app.
 
 6. **This is the URL you have to paste in any browser.** After one second, the page will redirect automatically to a registration page. Fill the form and you will receive a confirmation email.
 
-7. You are done! Now you have to visit us in our booth, show us the confirmation email and get your prize!
+# STEP 3 **Important! To avoid your CC charges** - Go to "All services -> General -> Resource groups", click on the resource group you created and then "Delete resource group" (confirmation needed).
+
+You are done! Now you have to visit us in our booth, show us the confirmation email and get your prize!
 
