@@ -1,9 +1,6 @@
 # Azure Functions Code Challenge
-## Want an awesome prize? Time to code!
 
-Do you want to get an [Azure IoT DevKit](https://microsoft.github.io/azure-iot-developer-kit/) and learn about Azure Functions? Then you only need 5 minutes and a browser to play our code challenge! Ready? Let's start!
-
-![Azure IoT DevKit](https://github.com/webmaxru/serverless-challenge/blob/master/images/devkit.jpg)
+Do you want to learn about Azure Functions and get a nice giveaway? Then you only need 5-10 minutes and a browser to play our code challenge! Ready? Let's start!
 
 ## What is Azure Functions?
 Azure Functions is a solution for easily running small pieces of code, or "functions," in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. Functions can make development even more productive, and you can use your development language of choice, such as C#, F#, Node.js, Java, or PHP. Pay only for the time your code runs and trust Azure to scale as needed. Azure Functions lets you develop serverless applications on Microsoft Azure. Want to learn more? You can read here an [Introduction to Azure Functions.](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview?ocid=aid2443405_ThankYou_DevComm&eventId=JavaZone2019-ServerlessChallengeContent__siN-FXC-3uo)
@@ -80,7 +77,7 @@ Next, you create a function in the new function app.
 
 6. **This is the URL you have to paste in any browser.** After one second, the page will redirect automatically to a registration page. Fill the form and you will receive a confirmation email.
 
-# STEP 3 **Important! To avoid your CC charges** - Go to "All services -> General -> Resource groups", click on the resource group you created and then "Delete resource group" (confirmation needed). Log out from Azure Portal.
+# STEP 3 **Important! Go to "All services -> General -> Resource groups", click on the resource group you created and then "Delete resource group" (confirmation needed). Log out from Azure Portal.
 
-You are done! Now you have to visit us in our booth, show us the confirmation email and get your prize!
+You are done! Now you have to visit us in our booth, show us the confirmation email and get your giweaway!
 
