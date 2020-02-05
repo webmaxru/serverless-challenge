@@ -75,9 +75,6 @@ Next, you create a function in the new function app.
 
 ![Cut and paste URL](https://github.com/webmaxru/serverless-challenge/blob/master/images/pic-6.PNG)
 
-6. **This is the URL you have to paste in any browser.** After one second, the page will redirect automatically to a registration page. Fill the form and you will receive a confirmation email.
+6. **This is the URL you have to paste in any browser.** After one second, the page will redirect automatically to a challenge result page. Click on "Microsoft Azure Norway" button and show the resulting page to our experts at the booth to get your giveaway!
 
 # STEP 3 **Important! Go to "All services -> General -> Resource groups", click on the resource group you created and then "Delete resource group" (confirmation needed). Log out from Azure Portal.
-
-You are done! Now you have to visit us in our booth, show us the confirmation email and get your giweaway!
-
